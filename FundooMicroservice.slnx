@@ -1,0 +1,28 @@
+<Solution>
+  <Folder Name="/src/BuildingBlocks/">
+    <Project Path="src/BuildingBlocks/Fundoo.Observability/Fundoo.Observability.csproj" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Gateways/">
+    <Project Path="src/Gateways/Fundoo.ApiGateway/Fundoo.ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Notification/">
+    <Project Path="src/Services/Notification/Fundoo.Notification.Api/Fundoo.Notification.Api.csproj" />
+    <Project Path="src/Services/Notification/Fundoo.Notification.Application/Fundoo.Notification.Application.csproj" />
+    <Project Path="src/Services/Notification/Fundoo.Notification.Domain/Fundoo.Notification.Domain.csproj" />
+    <Project Path="src/Services/Notification/Fundoo.Notification.Infrastructure/Fundoo.Notification.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Notes/">
+    <Project Path="src/Services/Notes/Fundoo.Notes.Api/Fundoo.Notes.Api.csproj" />
+    <Project Path="src/Services/Notes/Fundoo.Notes.Application/Fundoo.Notes.Application.csproj" />
+    <Project Path="src/Services/Notes/Fundoo.Notes.Domain/Fundoo.Notes.Domain.csproj" />
+    <Project Path="src/Services/Notes/Fundoo.Notes.Infrastructure/Fundoo.Notes.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/User/">
+    <Project Path="src/Services/User/Fundoo.User.Api/Fundoo.User.Api.csproj" />
+    <Project Path="src/Services/User/Fundoo.User.Application/Fundoo.User.Application.csproj" />
+    <Project Path="src/Services/User/Fundoo.User.Domain/Fundoo.User.Domain.csproj" />
+    <Project Path="src/Services/User/Fundoo.User.Infrastructure/Fundoo.User.Infrastructure.csproj" />
+  </Folder>
+</Solution>

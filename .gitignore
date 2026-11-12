@@ -1,0 +1,28 @@
+# .NET build files
+**/bin/
+**/obj/
+
+# IDE files
+.idea/
+.vs/
+*.user
+*.suo
+*.slnLaunch.user
+
+# Local SDK and package data
+.dotnet-cli/
+.nuget/
+
+# Logs
+*.log
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.Development.json
+
+# OS files
+.DS_Store
+Thumbs.db
